@@ -5,13 +5,6 @@ Cette documentation explique l'intégration de l'API du transporteur **Easy Deli
 
 ---
 
-## 2 Fonctionnalités
-✅ Envoyer les détails d'une commande de livraison à Easy Delivery via un **bouton** dans Odoo.  
-✅ Récupérer un **numéro de suivi** de l'expédition.  
-✅ Récupérer et imprimer l'**étiquette de transport ZPL**.  
-
----
-
 ## 3 API du Transporteur
 
 ### 🔑 **Authentification**
